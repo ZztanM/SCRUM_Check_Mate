@@ -1,2 +1,2 @@
 # RESTAURANT
-SISTEMA BASICO PARA RESTAURAN
+Sistema para reservaciones de un restaurante
